@@ -8,15 +8,15 @@ The dataset I chose is the happiness dataset. It gives the happiness rating and 
 
 Specifications:
 
-*Freedom: The feature that describes how free an individual feels and how freely he can manage himself.
-*Corruption: Describes the score whether the state is corrupt or not.
-*Generosity: The extent to which their country is involved in peacekeeping and global aid
-*GDP (GDP Per Capita): Country's GDP per capita - Individuals rank their quality of life by the amount they earn.
-*Life Expectancy: A feature that explains the ranking of healthcare availability and average life expectancy in the country
-*Social Support: Describes the support of relatives, family or friends around the person.
-*Country: Countries included in the scoring
-*Regions
-*Score (Happiness Score): It is the happiness score compared to other characteristics.
+* Freedom: The feature that describes how free an individual feels and how freely he can manage himself.
+* Corruption: Describes the score whether the state is corrupt or not.
+* Generosity: The extent to which their country is involved in peacekeeping and global aid
+* GDP (GDP Per Capita): Country's GDP per capita - Individuals rank their quality of life by the amount they earn.
+* Life Expectancy: A feature that explains the ranking of healthcare availability and average life expectancy in the country
+* Social Support: Describes the support of relatives, family or friends around the person.
+* Country: Countries included in the scoring
+* Regions
+* Score (Happiness Score): It is the happiness score compared to other characteristics.
 
 ### What will I find answers to?
 
