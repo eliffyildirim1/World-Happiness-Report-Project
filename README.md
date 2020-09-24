@@ -6,7 +6,7 @@ This project is an Exploratory Data Analysis (EDA) project.
 
 The dataset I chose is the happiness dataset. It gives the happiness rating and happiness score of 153 countries in the world based on 6 factors including social support, life expectancy, economy, generosity, trust in government, freedom. The sum of the values of these 6 factors gives us the happiness score. It is a landmark study of global happiness that ranks its citizens according to how happy they perceive themselves.
 
-Specifications:
+Features:
 
 * Freedom: The feature that describes how free an individual feels and how freely he can manage himself.
 * Corruption: Describes the score whether the state is corrupt or not.
