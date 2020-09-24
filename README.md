@@ -20,10 +20,10 @@ Specifications:
 
 # What will I find answers to?
 
-*What is the happiest country in terms of happiness?
-*How are the 10 happiest countries compared with other parameters, is there any similarity or harmony?
-*Which countries are the most unhappy?
-*What is the relationship between happiness and perception of corruption?
+*What is the happiest country in terms of happiness?*
+*How are the 10 happiest countries compared with other parameters, is there any similarity or harmony?*
+*Which countries are the most unhappy?*
+*What is the relationship between happiness and perception of corruption?**
 *Which feature significantly affects the degree of happiness?
-*What is the relationship between the degree of happiness and other traits?
-*What are the relationships between all properties?
+*What is the relationship between the degree of happiness and other traits?*
+*What are the relationships between all properties?*
